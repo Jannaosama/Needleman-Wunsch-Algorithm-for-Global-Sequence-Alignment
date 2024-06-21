@@ -1,0 +1,5 @@
+Sequence1: GAAC
+Sequence2: CAAGAC
+Match: 1
+Mismatch: -1
+Gap: -2

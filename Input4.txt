@@ -1,0 +1,5 @@
+Sequence1: AGT
+Sequence2: AAGC
+Match: 1
+Mismatch: -1
+Gap: -2

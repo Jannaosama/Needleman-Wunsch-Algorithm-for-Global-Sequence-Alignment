@@ -1,0 +1,5 @@
+Sequence1: FMDTPLNE
+Sequence2: FKHMEDPLE
+Match: 1
+Mismatch: -2
+Gap: -2
